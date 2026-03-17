@@ -2715,5 +2715,18 @@
     "start_date_local": "2026-03-16T12:44:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 549.4,
+    "elevation_gain": 0.0,
+    "id": "17744389714",
+    "moving_time": 5351.0,
+    "name": "Evening Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-03-16T18:01:36Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
