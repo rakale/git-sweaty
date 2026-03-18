@@ -2728,5 +2728,18 @@
     "start_date_local": "2026-03-16T18:01:36Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 11109.3,
+    "elevation_gain": 52.0,
+    "id": "17768025988",
+    "moving_time": 3508.0,
+    "name": "6x1k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T16:54:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

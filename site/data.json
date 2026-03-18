@@ -1889,6 +1889,15 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/17744389714",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 16,
+      "name": "6x1k",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17768025988",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3731,6 +3740,15 @@
           "distance": 5310.2,
           "elevation_gain": 17.0,
           "moving_time": 1920.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17768025988"
+          ],
+          "count": 1,
+          "distance": 11109.3,
+          "elevation_gain": 52.0,
+          "moving_time": 3508.0
         }
       },
       "WeightTraining": {
@@ -3811,7 +3829,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T16:03:11.682463+00:00",
+  "generated_at": "2026-03-18T16:06:44.827638+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
