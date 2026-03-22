@@ -1907,6 +1907,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17788928571",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 10,
+      "name": "Morning Alpine Ski",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17814066544",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3324,6 +3333,17 @@
       }
     },
     "2026": {
+      "AlpineSki": {
+        "2026-03-22": {
+          "activity_ids": [
+            "17814066544"
+          ],
+          "count": 1,
+          "distance": 12913.0,
+          "elevation_gain": 84.2,
+          "moving_time": 4136.0
+        }
+      },
       "Padel": {
         "2026-03-16": {
           "activity_ids": [
@@ -3847,13 +3867,17 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:22:47.594115+00:00",
+  "generated_at": "2026-03-22T15:23:17.104268+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
   "source": "strava",
   "strava_profile_url": "https://www.strava.com/athletes/99942406",
   "type_meta": {
+    "AlpineSki": {
+      "accent": "#72efdd",
+      "label": "Alpine Ski"
+    },
     "Padel": {
       "accent": "#ffbe0b",
       "label": "Padel"
@@ -3880,6 +3904,7 @@
     }
   },
   "types": [
+    "AlpineSki",
     "Ride",
     "Run",
     "Walk",
