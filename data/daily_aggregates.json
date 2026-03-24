@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T16:00:50.045525+00:00",
+  "generated_at": "2026-03-24T16:04:39.277956+00:00",
   "years": {
     "2022": {
       "Ride": {
@@ -1434,6 +1434,16 @@
           "distance": 12840.9,
           "elevation_gain": 287.4,
           "moving_time": 3306.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839037955",
+            "17841721286"
+          ],
+          "count": 2,
+          "distance": 37052.6,
+          "elevation_gain": 199.4,
+          "moving_time": 11056.0
         }
       },
       "Padel": {

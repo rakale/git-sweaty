@@ -2793,5 +2793,31 @@
     "start_date_local": "2026-03-23T09:53:49Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 20586.0,
+    "elevation_gain": 121.0,
+    "id": "17839037955",
+    "moving_time": 6489.0,
+    "name": "Morning Alpine Ski",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-24T09:47:06Z",
+    "type": "AlpineSki",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 16466.6,
+    "elevation_gain": 78.4,
+    "id": "17841721286",
+    "moving_time": 4567.0,
+    "name": "Afternoon Alpine Ski",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-24T15:13:32Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]

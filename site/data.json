@@ -1934,6 +1934,24 @@
       "type": "AlpineSki",
       "url": "https://www.strava.com/activities/17825375542",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 9,
+      "name": "Morning Alpine Ski",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17839037955",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 15,
+      "name": "Afternoon Alpine Ski",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17841721286",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3370,6 +3388,16 @@
           "distance": 12840.9,
           "elevation_gain": 287.4,
           "moving_time": 3306.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839037955",
+            "17841721286"
+          ],
+          "count": 2,
+          "distance": 37052.6,
+          "elevation_gain": 199.4,
+          "moving_time": 11056.0
         }
       },
       "Padel": {
@@ -3895,7 +3923,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T16:00:50.053408+00:00",
+  "generated_at": "2026-03-24T16:04:39.285276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
