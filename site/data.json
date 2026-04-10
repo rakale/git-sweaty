@@ -2042,6 +2042,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18027878667",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18045802183",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18053615786",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4023,6 +4041,24 @@
           "distance": 7459.6,
           "elevation_gain": 50.0,
           "moving_time": 2317.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18045802183"
+          ],
+          "count": 1,
+          "distance": 4177.7,
+          "elevation_gain": 30.0,
+          "moving_time": 2180.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18053615786"
+          ],
+          "count": 1,
+          "distance": 8019.5,
+          "elevation_gain": 141.0,
+          "moving_time": 3089.0
         }
       },
       "WeightTraining": {
@@ -4103,7 +4139,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:16:02.057440+00:00",
+  "generated_at": "2026-04-10T15:48:47.343630+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
