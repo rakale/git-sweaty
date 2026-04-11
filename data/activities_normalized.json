@@ -2975,5 +2975,31 @@
     "start_date_local": "2026-04-10T15:33:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 8065.5,
+    "elevation_gain": 21.0,
+    "id": "18063058872",
+    "moving_time": 2894.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T11:39:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18065841268",
+    "moving_time": 3526.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-11T14:48:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

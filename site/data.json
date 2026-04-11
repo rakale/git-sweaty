@@ -2060,6 +2060,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18053615786",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18063058872",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 14,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18065841268",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4059,6 +4077,15 @@
           "distance": 8019.5,
           "elevation_gain": 141.0,
           "moving_time": 3089.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18063058872"
+          ],
+          "count": 1,
+          "distance": 8065.5,
+          "elevation_gain": 21.0,
+          "moving_time": 2894.0
         }
       },
       "WeightTraining": {
@@ -4079,6 +4106,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1330.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18065841268"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3526.0
         }
       },
       "Workout": {
@@ -4139,7 +4175,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:48:47.343630+00:00",
+  "generated_at": "2026-04-11T15:30:34.567851+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
