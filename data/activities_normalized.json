@@ -3118,5 +3118,18 @@
     "start_date_local": "2026-04-21T16:46:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 11250.7,
+    "elevation_gain": 10.0,
+    "id": "18226861026",
+    "moving_time": 3347.0,
+    "name": "4x2k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T17:16:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
