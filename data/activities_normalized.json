@@ -3651,5 +3651,31 @@
     "start_date_local": "2026-07-25T16:24:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 800.2,
+    "elevation_gain": 3.0,
+    "id": "19472242293",
+    "moving_time": 347.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T15:21:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 10027.5,
+    "elevation_gain": 12.0,
+    "id": "19473498209",
+    "moving_time": 2874.0,
+    "name": "kfc suvi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T16:04:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -2528,6 +2528,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19459562783",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19472242293",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 16,
+      "name": "kfc suvi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19473498209",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4907,6 +4925,16 @@
           "distance": 5386.5,
           "elevation_gain": 22.0,
           "moving_time": 1915.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19472242293",
+            "19473498209"
+          ],
+          "count": 2,
+          "distance": 10827.7,
+          "elevation_gain": 15.0,
+          "moving_time": 3221.0
         }
       },
       "WeightTraining": {
@@ -5077,7 +5105,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T16:00:57.555357+00:00",
+  "generated_at": "2026-07-26T15:58:30.270655+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",
