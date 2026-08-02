@@ -3690,5 +3690,18 @@
     "start_date_local": "2026-07-31T18:21:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 21674.9,
+    "elevation_gain": 70.0,
+    "id": "19559057140",
+    "moving_time": 7866.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T17:52:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
