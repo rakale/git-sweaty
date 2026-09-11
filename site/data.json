@@ -2771,6 +2771,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20104790028",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 16,
+      "name": "shake",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20130602108",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5376,6 +5385,15 @@
           "distance": 6065.0,
           "elevation_gain": 24.0,
           "moving_time": 2228.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20130602108"
+          ],
+          "count": 1,
+          "distance": 3235.9,
+          "elevation_gain": 15.0,
+          "moving_time": 1191.0
         }
       },
       "WeightTraining": {
@@ -5555,7 +5573,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T18:01:34.670698+00:00",
+  "generated_at": "2026-09-11T18:08:29.636171+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/99942406",
   "repo": "rakale/git-sweaty",

@@ -4002,5 +4002,18 @@
     "start_date_local": "2026-09-09T18:35:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 3235.9,
+    "elevation_gain": 15.0,
+    "id": "20130602108",
+    "moving_time": 1191.0,
+    "name": "shake",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T16:42:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
